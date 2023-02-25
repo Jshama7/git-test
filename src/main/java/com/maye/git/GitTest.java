@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("Hello,Git in Idea 3!");
         System.out.println("Hello,Git in Idea 4!");
         System.out.println("master test");
-        System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 
 }
