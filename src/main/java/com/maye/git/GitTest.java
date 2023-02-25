@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("Hello,Git in Idea 2!");
         System.out.println("Hello,Git in Idea 3!");
         System.out.println("Hello,Git in Idea 4!");
+        System.out.println("master test");
     }
 
 }
